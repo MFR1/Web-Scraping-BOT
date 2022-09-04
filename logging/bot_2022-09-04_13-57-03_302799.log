@@ -1,0 +1,345 @@
+2022-09-04 13:57:03.303 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:03.305 | SUCCESS  | __main__:initialize_csv:149 - CSV Initialized
+2022-09-04 13:57:04.502 | SUCCESS  | __main__:setup_chrome:133 - Chrome Driver is up
+2022-09-04 13:57:04.503 | INFO     | __main__:automate:60 - Opening Website
+2022-09-04 13:57:05.425 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:05.459 | INFO     | __main__:automate:68 - Total Pages: 323
+2022-09-04 13:57:05.459 | INFO     | __main__:automate:74 - Opening URL: https://justnaija.com/music-mp3/page/1/
+2022-09-04 13:57:06.071 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:06.080 | INFO     | __main__:automate:80 - Total Listings on page # 1: 20
+2022-09-04 13:57:07.157 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-roboto-ft-reekado-banks/
+2022-09-04 13:57:08.129 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:08.200 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:08.200 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – Roboto ft. Reekado Banks Mp3
+2022-09-04 13:57:08.200 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-roboto-ft-reekado-banks/
+2022-09-04 13:57:08.200 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6900/
+2022-09-04 13:57:08.200 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:08.200 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:08.201 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-god-no-go-shame-us/
+2022-09-04 13:57:08.672 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:08.753 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:08.754 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – God No Go Shame Us Mp3
+2022-09-04 13:57:08.754 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-god-no-go-shame-us/
+2022-09-04 13:57:08.754 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6899/
+2022-09-04 13:57:08.754 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:08.754 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:08.755 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-low-key-ft-bella-shmurda/
+2022-09-04 13:57:09.003 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:09.081 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:09.082 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – Low Key ft. Bella Shmurda Mp3
+2022-09-04 13:57:09.082 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-low-key-ft-bella-shmurda/
+2022-09-04 13:57:09.082 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6898/
+2022-09-04 13:57:09.082 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:09.082 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:09.083 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-guru-remix-ft-wyclef-jean/
+2022-09-04 13:57:09.504 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:10.384 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:10.384 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – Guru (Remix) ft. Wyclef Jean Mp3
+2022-09-04 13:57:10.385 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-guru-remix-ft-wyclef-jean/
+2022-09-04 13:57:10.385 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6897/
+2022-09-04 13:57:10.385 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:10.385 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:10.386 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-aye-labowo/
+2022-09-04 13:57:10.864 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:11.231 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:11.231 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – Aye Labowo Mp3
+2022-09-04 13:57:11.232 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-aye-labowo/
+2022-09-04 13:57:11.232 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6896/
+2022-09-04 13:57:11.232 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:11.233 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:11.233 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-ko-kanye-ft-tiwa-savage/
+2022-09-04 13:57:11.704 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:12.420 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:12.421 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – Ko Kanye ft. Tiwa Savage Mp3
+2022-09-04 13:57:12.421 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-ko-kanye-ft-tiwa-savage/
+2022-09-04 13:57:12.421 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6895/
+2022-09-04 13:57:12.421 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:12.421 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:12.422 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-ninalowo-ft-zlatan/
+2022-09-04 13:57:12.908 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:12.978 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:12.979 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – Ninalowo ft. Zlatan Mp3
+2022-09-04 13:57:12.979 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-ninalowo-ft-zlatan/
+2022-09-04 13:57:12.979 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6894/
+2022-09-04 13:57:12.979 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:12.979 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:12.980 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/9ice-jaiye-anthem/
+2022-09-04 13:57:13.235 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:13.291 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:13.292 | INFO     | __main__:scrape_data:32 - Post Title: 9ice – Jaiye Anthem Mp3
+2022-09-04 13:57:13.292 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/9ice-jaiye-anthem/
+2022-09-04 13:57:13.292 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6893/
+2022-09-04 13:57:13.292 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:13.292 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:13.293 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/pasuma-omo-ologo-ft-qdot/
+2022-09-04 13:57:13.772 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:14.615 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:14.615 | INFO     | __main__:scrape_data:32 - Post Title: Pasuma – Omo Ologo ft. Qdot Mp3
+2022-09-04 13:57:14.616 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/pasuma-omo-ologo-ft-qdot/
+2022-09-04 13:57:14.616 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6892/
+2022-09-04 13:57:14.616 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:14.616 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:14.616 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/cassper-nyovest-4-steps-back-big-zulu-diss/
+2022-09-04 13:57:15.099 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:15.166 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:15.167 | INFO     | __main__:scrape_data:32 - Post Title: Cassper Nyovest – 4 Steps Back (Big Zulu Diss) Mp3
+2022-09-04 13:57:15.167 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/cassper-nyovest-4-steps-back-big-zulu-diss/
+2022-09-04 13:57:15.167 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6891/
+2022-09-04 13:57:15.167 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:15.168 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:15.168 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/jaywon-zelle-ft-otega-t-dollar/
+2022-09-04 13:57:15.413 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:15.474 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:15.474 | INFO     | __main__:scrape_data:32 - Post Title: Jaywon – Zelle (Remix) ft. Otega & T Dollar Mp3
+2022-09-04 13:57:15.474 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/jaywon-zelle-ft-otega-t-dollar/
+2022-09-04 13:57:15.474 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6890/
+2022-09-04 13:57:15.474 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:15.475 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:15.475 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-ballads-of-a-lost-boy/
+2022-09-04 13:57:15.739 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:15.787 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:15.788 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Ballads of a Lost Boy Mp3
+2022-09-04 13:57:15.788 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-ballads-of-a-lost-boy/
+2022-09-04 13:57:15.788 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6889/
+2022-09-04 13:57:15.788 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:15.788 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:15.788 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-the-lost-boy-ft-yuang-jay-teazer/
+2022-09-04 13:57:16.261 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:16.717 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:16.718 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – The Lost Boy ft. YUANG & Jay Teazer Mp3
+2022-09-04 13:57:16.718 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-the-lost-boy-ft-yuang-jay-teazer/
+2022-09-04 13:57:16.718 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6888/
+2022-09-04 13:57:16.718 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:16.718 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:16.718 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-ptsd-ft-odumodublvck/
+2022-09-04 13:57:17.192 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:17.686 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:17.686 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – PTSD ft. Odumodublvck Mp3
+2022-09-04 13:57:17.686 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-ptsd-ft-odumodublvck/
+2022-09-04 13:57:17.686 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6887/
+2022-09-04 13:57:17.687 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:17.687 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:17.687 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-a-girl-called-grace-ft-jay-teazer/
+2022-09-04 13:57:18.160 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:18.717 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:18.717 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – A girl called grace ft. Jay Teazer Mp3
+2022-09-04 13:57:18.717 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-a-girl-called-grace-ft-jay-teazer/
+2022-09-04 13:57:18.717 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6886/
+2022-09-04 13:57:18.717 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:18.718 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:18.718 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-cotton-candy-ft-mephyz/
+2022-09-04 13:57:19.183 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:19.461 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:19.461 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Cotton candy ft. Mephyz Mp3
+2022-09-04 13:57:19.462 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-cotton-candy-ft-mephyz/
+2022-09-04 13:57:19.462 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6885/
+2022-09-04 13:57:19.462 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:19.462 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:19.462 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-lit-ft-psychoyp/
+2022-09-04 13:57:19.957 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:20.930 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:20.931 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Lit ft. PsychoYP Mp3
+2022-09-04 13:57:20.931 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-lit-ft-psychoyp/
+2022-09-04 13:57:20.931 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6884/
+2022-09-04 13:57:20.931 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:20.932 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:20.932 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-perfect-timing-ft-jeriq/
+2022-09-04 13:57:21.426 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:21.491 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:21.491 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Perfect Timing ft. Jeriq Mp3
+2022-09-04 13:57:21.491 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-perfect-timing-ft-jeriq/
+2022-09-04 13:57:21.491 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6883/
+2022-09-04 13:57:21.491 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:21.492 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:21.492 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-family-ties-ft-oga-network-igosave-erigga/
+2022-09-04 13:57:22.032 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:22.106 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:22.106 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Family Ties ft. Oga Network & Igosave Erigga Mp3
+2022-09-04 13:57:22.107 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-family-ties-ft-oga-network-igosave-erigga/
+2022-09-04 13:57:22.107 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6882/
+2022-09-04 13:57:22.107 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:22.107 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:22.107 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-broke-or-rich-ft-jay-teazer/
+2022-09-04 13:57:22.614 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:22.688 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:22.689 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Broke or rich ft. Jay Teazer Mp3
+2022-09-04 13:57:22.689 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-broke-or-rich-ft-jay-teazer/
+2022-09-04 13:57:22.689 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6881/
+2022-09-04 13:57:22.689 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:22.690 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:22.690 | INFO     | __main__:automate:74 - Opening URL: https://justnaija.com/music-mp3/page/2/
+2022-09-04 13:57:23.336 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:23.344 | INFO     | __main__:automate:80 - Total Listings on page # 2: 20
+2022-09-04 13:57:23.728 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-vawulence/
+2022-09-04 13:57:24.233 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:24.719 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:24.720 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Vawulence Mp3
+2022-09-04 13:57:24.720 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-vawulence/
+2022-09-04 13:57:24.720 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6880/
+2022-09-04 13:57:24.720 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:24.720 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:24.721 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-how-many-gyal-ft-yuang/
+2022-09-04 13:57:25.776 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:26.138 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:26.139 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – How many gyal ft. YUANG Mp3
+2022-09-04 13:57:26.139 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-how-many-gyal-ft-yuang/
+2022-09-04 13:57:26.139 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6879/
+2022-09-04 13:57:26.139 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:26.140 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:26.140 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-l-with-vs/
+2022-09-04 13:57:27.226 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:27.321 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:27.321 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – L with V's Mp3
+2022-09-04 13:57:27.321 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-l-with-vs/
+2022-09-04 13:57:27.321 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6878/
+2022-09-04 13:57:27.321 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:27.322 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:27.322 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/erigga-inshallah-ft-ebii/
+2022-09-04 13:57:28.395 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:28.471 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:28.471 | INFO     | __main__:scrape_data:32 - Post Title: Erigga – Inshallah ft. EBII Mp3
+2022-09-04 13:57:28.471 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/erigga-inshallah-ft-ebii/
+2022-09-04 13:57:28.471 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6877/
+2022-09-04 13:57:28.472 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:28.472 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:28.472 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/skiibii-kelele/
+2022-09-04 13:57:29.410 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:29.861 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:29.861 | INFO     | __main__:scrape_data:32 - Post Title: Skiibii – Kelele Mp3
+2022-09-04 13:57:29.861 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/skiibii-kelele/
+2022-09-04 13:57:29.862 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6876/
+2022-09-04 13:57:29.862 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:29.862 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:29.862 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/skiibii-flex/
+2022-09-04 13:57:30.964 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:31.256 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:31.256 | INFO     | __main__:scrape_data:32 - Post Title: Skiibii – Flex Mp3
+2022-09-04 13:57:31.256 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/skiibii-flex/
+2022-09-04 13:57:31.256 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6875/
+2022-09-04 13:57:31.256 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:31.257 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:31.257 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/skiibii-pawon/
+2022-09-04 13:57:32.322 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:32.793 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:32.793 | INFO     | __main__:scrape_data:32 - Post Title: Skiibii – Pawon Mp3
+2022-09-04 13:57:32.793 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/skiibii-pawon/
+2022-09-04 13:57:32.793 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6874/
+2022-09-04 13:57:32.793 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:32.793 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:32.794 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/flexyboy-tonight/
+2022-09-04 13:57:33.776 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:34.243 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:34.244 | INFO     | __main__:scrape_data:32 - Post Title: FlexyBoy - Tonight Mp3
+2022-09-04 13:57:34.244 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/flexyboy-tonight/
+2022-09-04 13:57:34.244 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6873/
+2022-09-04 13:57:34.244 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:34.244 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:34.244 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/vector-mama-maradona-ft-wande-coal/
+2022-09-04 13:57:35.159 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:35.238 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:35.238 | INFO     | __main__:scrape_data:32 - Post Title: Vector – Mama Maradona ft. Wande Coal Mp3
+2022-09-04 13:57:35.239 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/vector-mama-maradona-ft-wande-coal/
+2022-09-04 13:57:35.239 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6872/
+2022-09-04 13:57:35.239 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:35.239 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:35.239 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/dammy-krane-eshe-ft-psychoyp/
+2022-09-04 13:57:36.066 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:36.340 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:36.341 | INFO     | __main__:scrape_data:32 - Post Title: Dammy Krane – Eshe ft. PsychoYP Mp3
+2022-09-04 13:57:36.341 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/dammy-krane-eshe-ft-psychoyp/
+2022-09-04 13:57:36.341 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6871/
+2022-09-04 13:57:36.341 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:36.341 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:36.342 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/ayanfe-temptation/
+2022-09-04 13:57:37.303 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:37.580 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:37.580 | INFO     | __main__:scrape_data:32 - Post Title: Ayanfe – Temptation Mp3
+2022-09-04 13:57:37.581 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/ayanfe-temptation/
+2022-09-04 13:57:37.581 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6870/
+2022-09-04 13:57:37.581 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:37.581 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:37.581 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/manny-norte-worth-my-while-ft-stalk-ashley-ayra-starr-tiana-major9/
+2022-09-04 13:57:38.582 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:38.874 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:38.875 | INFO     | __main__:scrape_data:32 - Post Title: Manny Norté – Worth My While ft. Stalk Ashley, Ayra Starr & Tiana Major9 Mp3
+2022-09-04 13:57:38.875 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/manny-norte-worth-my-while-ft-stalk-ashley-ayra-starr-tiana-major9/
+2022-09-04 13:57:38.875 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6869/
+2022-09-04 13:57:38.875 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:38.875 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:38.876 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/nonso-amadi-eye-to-eye/
+2022-09-04 13:57:39.729 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:40.587 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:40.587 | INFO     | __main__:scrape_data:32 - Post Title: Nonso Amadi – Eye To Eye Mp3
+2022-09-04 13:57:40.588 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/nonso-amadi-eye-to-eye/
+2022-09-04 13:57:40.588 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6868/
+2022-09-04 13:57:40.588 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:40.588 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:40.588 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/powpeezy-peng-ting/
+2022-09-04 13:57:41.055 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:41.404 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:41.404 | INFO     | __main__:scrape_data:32 - Post Title: Powpeezy – Peng Ting Mp3
+2022-09-04 13:57:41.404 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/powpeezy-peng-ting/
+2022-09-04 13:57:41.404 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6867/
+2022-09-04 13:57:41.404 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:41.404 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:41.405 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/netta-playground-politica-ft-mr-eazi/
+2022-09-04 13:57:42.468 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:43.283 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:43.283 | INFO     | __main__:scrape_data:32 - Post Title: Netta – Playground Politica ft. Mr Eazi Mp3
+2022-09-04 13:57:43.283 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/netta-playground-politica-ft-mr-eazi/
+2022-09-04 13:57:43.284 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6866/
+2022-09-04 13:57:43.284 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:43.284 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:43.284 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/mohbad-peace/
+2022-09-04 13:57:43.768 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:44.364 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:44.364 | INFO     | __main__:scrape_data:32 - Post Title: Mohbad – Peace Mp3
+2022-09-04 13:57:44.364 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/mohbad-peace/
+2022-09-04 13:57:44.364 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6865/
+2022-09-04 13:57:44.364 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:44.365 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:44.365 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/dbanj-cover-me/
+2022-09-04 13:57:45.318 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:45.384 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:45.384 | INFO     | __main__:scrape_data:32 - Post Title: D’banj – Cover Me Mp3
+2022-09-04 13:57:45.384 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/dbanj-cover-me/
+2022-09-04 13:57:45.384 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6864/
+2022-09-04 13:57:45.384 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:45.384 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:45.385 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/waje-na-me-be-this/
+2022-09-04 13:57:46.190 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:47.534 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:47.534 | INFO     | __main__:scrape_data:32 - Post Title: Waje – Na Me Be This Mp3
+2022-09-04 13:57:47.535 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/waje-na-me-be-this/
+2022-09-04 13:57:47.535 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6863/
+2022-09-04 13:57:47.535 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:47.535 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:47.535 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/waje-imagine/
+2022-09-04 13:57:48.497 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:49.307 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:49.308 | INFO     | __main__:scrape_data:32 - Post Title: Waje – Imagine Mp3
+2022-09-04 13:57:49.308 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/waje-imagine/
+2022-09-04 13:57:49.308 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6862/
+2022-09-04 13:57:49.308 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:49.308 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:49.309 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/waje-mercy-me/
+2022-09-04 13:57:50.352 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:50.647 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:50.647 | INFO     | __main__:scrape_data:32 - Post Title: Waje – Mercy Me Mp3
+2022-09-04 13:57:50.648 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/waje-mercy-me/
+2022-09-04 13:57:50.648 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6861/
+2022-09-04 13:57:50.648 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:50.648 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:50.649 | INFO     | __main__:automate:74 - Opening URL: https://justnaija.com/music-mp3/page/3/
+2022-09-04 13:57:51.413 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:51.422 | INFO     | __main__:automate:80 - Total Listings on page # 3: 20
+2022-09-04 13:57:51.843 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/waje-stay/
+2022-09-04 13:57:52.830 | INFO     | __main__:wait_by_xpath:103 - Element Found
+2022-09-04 13:57:52.896 | INFO     | __main__:scrape_data:31 - Data Scraped
+2022-09-04 13:57:52.896 | INFO     | __main__:scrape_data:32 - Post Title: Waje – Stay Mp3
+2022-09-04 13:57:52.896 | INFO     | __main__:scrape_data:33 - Post URL: https://justnaija.com/music-download/waje-stay/
+2022-09-04 13:57:52.896 | INFO     | __main__:scrape_data:34 - Download link: https://justnaija.com/music/download/6860/
+2022-09-04 13:57:52.896 | INFO     | __main__:scrape_data:35 - Date Posted: Sep 04, 2022
+2022-09-04 13:57:52.897 | SUCCESS  | __main__:push_to_csv:50 - Row successfully added to CSV
+2022-09-04 13:57:52.897 | INFO     | __main__:scrape_data:19 - Opening URL: https://justnaija.com/music-download/waje-hallelujah/
+2022-09-04 13:57:53.861 | INFO     | __main__:wait_by_xpath:103 - Element Found
