@@ -21,17 +21,18 @@ def scrape_data(url):
 
     wait_by_xpath('//time[@itemprop="dateModified"]', driver, 5)
     date_posted     = driver.find_element(By.XPATH, '//time[@itemprop="dateModified"]').text
-    # download_link   = driver.find_element(By.XPATH, '//a[contains(text(),"DOWNLOAD MP3 HERE")]').get_attribute('href')
     download_link   = driver.find_element(By.ID, 'dlf').get_attribute('href')
-
     post_title_div = driver.find_element(By.XPATH, '//div[@class="mpostheader"]')
     post_title = post_title_div.find_element(By.XPATH, '//span[@class="h1"]').text
 
+    # Cleaning Post Title
+    post_title = post_title.replace('[Music] ', '').replace(' | Free Audio Download', '')
+
     logger.info("Data Scraped")
-    logger.info("Post Title" + post_title)
-    logger.info("Post URL" + url)
-    logger.info("Download link" + download_link)
-    logger.info("Date Posted" + date_posted)
+    logger.info("Post Title: " + post_title)
+    logger.info("Post URL: " + url)
+    logger.info("Download link: " + download_link)
+    logger.info("Date Posted: " + date_posted)
 
     # Push to CSV file
     push_to_csv([post_title, url, download_link, date_posted], csv_filename, 'a')
@@ -41,7 +42,7 @@ def scrape_data(url):
 @logger.catch()
 def push_to_csv(row, filename, write_mode):
     try:
-        with open(filename, write_mode, newline='\n') as f_object:
+        with open(filename, write_mode, newline='\n', encoding='utf-8') as f_object:
             writer_object = csv.writer(f_object)
             writer_object.writerow(row)
             f_object.close()
